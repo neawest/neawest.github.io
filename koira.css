@@ -6,13 +6,14 @@ body {
 }
 .esimerkki {
     color: teal;
-    background-color: blueviolet;
+    background-color: beige;
     border: 2px solid black;
-    border-radius: 25px;
-    height: 100px;
+    border-radius: 20px;
+    height: 15px;
+    width: 150px;
 }
 .border {
-    border: 4px solid beige;
+    border: 2px solid beige;
     margin-left: 5%;
     margin-right: 5%;
 }
