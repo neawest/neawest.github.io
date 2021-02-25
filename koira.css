@@ -1,19 +1,40 @@
 body {
-    background-color: rgb(39, 26, 26);
-    color: white;
-    margin-left: 10%;
-    margin-right: 10%;
+    background-color: darkgray;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
-.esimerkki {
-    color: teal;
-    background-color: beige;
-    border: 2px solid black;
-    border-radius: 20px;
-    height: 15px;
-    width: 150px;
+#header {
+background-color: grey;
+height: 100px;
+padding-bottom: 10px;
+text-align: center;
 }
-.border {
-    border: 2px solid beige;
-    margin-left: 5%;
-    margin-right: 5%;
+#nav {
+color: hotpink;
+background-color:beige ;
+padding-bottom: 5px;
+padding-top: 5px;
+height: 15px;
+text-align: center;
+}
+section {
+float: left;
+background-color: cyan;
+height: 150px;
+width: 70%;
+
+}
+aside {
+float: right;
+background-color: darkkhaki;
+height: 300px;
+width: 30%;
+
+}
+article {
+float: left;
+background-color: darksalmon;
+height: 150px;
+width: 70%;
 }
