@@ -1,0 +1,30 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(19, 18, 18)
+}
+
+figure {
+    text-align: center;
+    color: pink;
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color:pink;
+    border-width: 50% 
+}
+
+p {
+    color:pink
+}
+
+li {
+    background-color: rgb(19, 18, 18);
+    color: pink;
+}
+
+.col-sm-4 {
+    padding-top: 5%;
+}
