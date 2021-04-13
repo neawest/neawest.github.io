@@ -1,0 +1,44 @@
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgb(19, 18, 18);
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    border-style: dotted;
+    border-width: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-color: pink;
+}
+
+p {
+    color:white;
+    padding-top: 2%;
+    text-align: center;
+}
+
+li {
+    color:white;
+}
+
+.col-sm-4 {
+    padding-top: 5%;
+}
+
+.carousel-item {
+  height: 40%;
+  padding-top: 2%;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  color: pink;
+}
+
+#currentlink {
+  color: pink;
+}

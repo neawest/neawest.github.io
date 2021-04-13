@@ -1,0 +1,46 @@
+body {
+    margin-right: 15%;
+    margin-left: 15%;
+    background-color:rgb(19, 18, 18);
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#koira {
+    padding-top: 5%;
+    text-align: center;
+}
+
+#koira2 {
+    padding-top: 5%;
+    text-align: center;
+}
+
+#koira3 {
+    padding-top: 5%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    border-style: dotted;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-color: pink;
+}
+
+p {
+    text-align: center;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: pink;
+}
+
+#currentlink {
+    color: pink;
+}
